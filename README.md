@@ -2,8 +2,8 @@
 
 ### 🧑🏾‍🦱 Edgar Vitor — 21 Anos
 
-### 💻 Desenvolvedor Full Stack
+### 💻 Estudante focado em Front-end
 
 ### ☀️ Maceió - Brasil
 
-### 🎓 Ciência da Computação - UFAL
+### 🎓 Ciência da Computação - UFAL 
