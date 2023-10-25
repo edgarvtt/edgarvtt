@@ -2,7 +2,7 @@
 
 ### 🧑🏾‍🦱 Edgar Vitor — 21 Anos
 
-### 💻 Estudante focado em Front-end
+### 💻 Estudo focado em Fullstack
 
 ### ☀️ Maceió - Brasil
 
