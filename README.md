@@ -1,8 +1,6 @@
-## 👋🏾 eae, suave?
+## DESENVOLVEDOR DE SOFTWARE 
 
-### 🧑🏾‍🦱 Edgar Vitor — 21 Anos
-
-### 💻 Estudo focado em Fullstack
+###  Edgar Vitor — 21 Anos
 
 ### ☀️ Maceió - Brasil
 
