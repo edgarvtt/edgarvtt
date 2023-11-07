@@ -1,23 +1,24 @@
 ## DESENVOLVEDOR DE SOFTWARE 
 
-### 😄 Edgar Vitor
+#### 😄 Edgar Vitor
 
-### ☀️ Maceió - Brasil
+#### ☀️ Maceió - Brasil
 
-### 🎓 Ciência da Computação - UFAL (1/8) 
+#### 🎓 Ciência da Computação - UFAL (1/8) 
 
-### 💻 Habilidades Técnicas:
+## 💻 Habilidades Técnicas:
 
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/d1e7fe2c-ee63-4e18-a12a-a3c11579d754) 
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/0c9b992a-a759-46c1-885b-8783f9adbdf2)
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/089d2aab-d326-453b-ab20-b4598cb70dad)*nivel A2
 
+## ✶ Destaques:
 
 ##### Principal Projeto: https://edgarvtt.github.io/nexcenter_figma/ - Landing Page a partir de um prototipo do Figma <br>
 ##### Ultimo Projeto: https://edgarvtt.github.io/tela_login_ui/ - Tela de Login a partir de um prototipo do Figma
 
 
-### 🛈 Um pouco sobre mim
+## 🛈 Um pouco sobre mim
 
 Eu sou natural de pernambuco e vim parar em maceió por estudos, sou movido por desafios 🤠 e essa jornada para ser dev é meu maior e melhor desafio 
 
