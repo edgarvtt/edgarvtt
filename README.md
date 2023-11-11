@@ -4,6 +4,8 @@
 
 #### ☀️ Maceió - Brasil
 
+#### 🎓 Analysis and Systems Development - Uninter 
+
 ## 💻 Habilidades Técnicas:
 
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/876495f4-5bd0-4aa5-891a-b3a9c3588040)
