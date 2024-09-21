@@ -1,10 +1,10 @@
-## DESENVOLVEDOR DE SOFTWARE 
+## DESENVOLVEDOR FRONT-END
 
 #### - Edgar Vitor
 
-#### ☀ Maceió - Brasil
+#### - Maceió - Brasil
 
-#### 🎓 Computer Science - UFAL 
+#### - Computer Science - UFAL 
 
 ## 💻 Habilidades Técnicas:
 
