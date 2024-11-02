@@ -15,7 +15,7 @@
 
 ## Others Hard Skills
 
-![image](https://github.com/user-attachments/assets/f46a030a-8b78-48e1-be49-f7b77253283b)
+* C Language 
 
 
 
