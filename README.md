@@ -21,7 +21,6 @@
 
 ##### Principal Projeto: https://edgarvtt.github.io/nexcenter_figma/ - Landing Page a partir de um prototipo do Figma <br>
 ##### Ultimo Projeto: https://edgarvtt.github.io/tela_login_ui/ - Tela de Login a partir de um prototipo do Figma
-##### English: https://certificates-eu-west-1.efset.org/v1/certificates/cofwf3/pdf?download=true -  B2 Upper Intermediate for Reading ; A1 Beginner for Listening 
-
+##### English: [https://certificates-eu-west-1.efset.org/v1/certificates/cofwf3/pdf?download=true ](https://app.voxy.com/certificates/proficiency-test/67251788f4a50467202f42ea/)-  A2 Low Intermediate
 
 
