@@ -12,7 +12,8 @@
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/0c9b992a-a759-46c1-885b-8783f9adbdf2)
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/d1e7fe2c-ee63-4e18-a12a-a3c11579d754) 
 ![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/8cf1c3f8-5525-4e78-b3b0-2ce30ec37387)
-![image](https://github.com/user-attachments/assets/3d0e1c01-5eb1-4c17-8ab4-5079f3d77435)
+![image](https://github.com/user-attachments/assets/0fdd8902-057f-4bdb-ba0f-4f887acf436b)
+
 
 
 ## ✶ Destaques:
