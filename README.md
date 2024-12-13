@@ -15,7 +15,7 @@
 
 ## Others Hard Skills
 
-* C Language 
+* C Language & Study of algorithm  
 
 
 
