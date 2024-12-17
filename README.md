@@ -1,4 +1,4 @@
-## DESENVOLVEDOR FULLSTACK --
+## DESENVOLVEDOR FULLSTACK 
 
 #### - Edgar Vitor
 
