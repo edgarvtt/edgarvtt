@@ -1,28 +1,34 @@
-## DESENVOLVEDOR SOFTWARE 
+# 👋 Hi, I'm ED 
 
-#### - Edgar Vitor
+🎯 Desenvolvedor de Software | Cursando Ciência da Computação. <br>
+💼 Bom em fazer sites bonitos e funcionais <br>
+📍 Maceió - AL | 
+🌐 English <strong> Level A2 <strong>
 
-#### - Maceió - Brasil
+---
 
-#### - Computer Science - UFAL 
+## 🛠️ HardSkills 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-333333?logo=figma&logoColor=white)
 
-## 💻 Habilidades Técnicas:
+---
 
-![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/876495f4-5bd0-4aa5-891a-b3a9c3588040)
-![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/0c9b992a-a759-46c1-885b-8783f9adbdf2)
-![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/d1e7fe2c-ee63-4e18-a12a-a3c11579d754) 
-![Untitled](https://github.com/edgarvtt/edgarvtt/assets/82189299/8cf1c3f8-5525-4e78-b3b0-2ce30ec37387)
+## 📊 GitHub Stats
+![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight)
 
-## Others Hard Skills
+---
 
-* C Language & Study of algorithm  
-
-
-
-## ✶ Destaques:
-
-##### Principal Projeto: https://edgarvtt.github.io/nexcenter_figma/ - Landing Page a partir de um prototipo do Figma <br>
-##### Ultimo Projeto: https://edgarvtt.github.io/tela_login_ui/ - Tela de Login a partir de um prototipo do Figma
-##### English: [https://certificates-eu-west-1.efset.org/v1/certificates/cofwf3/pdf?download=true ](https://app.voxy.com/certificates/proficiency-test/67251788f4a50467202f42ea/)-  A2 Low Intermediate
+## 📌 Projetos em destaque
+- [**Landing Page**]( https://edgarvtt.github.io/nexcenter_figma/): Repliquei um site da comunidade figma em um código a partir do zero
+- [**Tela Login**](https://edgarvtt.github.io/tela_login_ui/):Tela de Login a partir de um prototipo do Figma.
 
 
+---
+
+## 🛠️ Em aprendizado
+
+* Git Avançado
+* Tailwind 
