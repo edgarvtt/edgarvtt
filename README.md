@@ -16,8 +16,8 @@
 ---
 
 ## 📊 GitHub Stats
-![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight)
+![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarvtt&show_icons=true&theme=tokyonight)
+
 
 ---
 
@@ -32,3 +32,6 @@
 
 * Git Avançado
 * Tailwind 
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarvtt&layout=compact&theme=tokyonight)
