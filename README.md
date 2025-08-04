@@ -3,7 +3,7 @@
 🎯 Desenvolvedor de Software | Cursando Ciência da Computação. <br>
 💼 Bom em fazer sites bonitos e funcionais <br>
 📍 Maceió - AL | 
-🌐 English <strong> Level A2 <strong>
+🌐 English <strong> Level B1 <strong>
 
 ---
 
