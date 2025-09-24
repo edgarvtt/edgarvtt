@@ -13,7 +13,7 @@ EDGAR VITOR
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-333333?logo=figma&logoColor=white)
-![Pyhton](https://img.shields.io/pypi/pyversions/:packageName)
+![Pyhton 3.0](https://img.shields.io/pypi/pyversions/:packageName)
 
 ---
 
