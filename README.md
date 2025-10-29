@@ -1,5 +1,4 @@
 # 👋 Hi, I'm ED 
-EDGAR VITOR 
 
 🎯 Desenvolvedor de Software | Cursando Ciência da Computação. <br>
 💼 Bom em fazer sites bonitos e funcionais <br>
