@@ -1,7 +1,6 @@
 # 👋 Hi, I'm ED 
 
-🎯 Desenvolvedor de Software | Cursando Ciência da Computação. <br>
-💼 Bom em fazer sites bonitos e funcionais <br>
+🎯 Desenvolvedor de Software e Data Analyst| Cursando Ciência da Computação na UFAL. <br>
 📍 Maceió - AL | 
 🌐 English <strong> Level B1 <strong>
 
