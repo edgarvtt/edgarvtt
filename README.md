@@ -32,8 +32,8 @@
 
 ## 🛠️ Em aprendizado
 
-* Git Avançado
-* Tailwind 
+* Python Intermediário
+* Python Pandas avançado
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarvtt&layout=compact&theme=tokyonight)
